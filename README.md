@@ -2,7 +2,7 @@
 A convenient and modern application for teaching children programming. Here you can write or paste code in C++ or Python from a file and understand its logical meaning thanks to the flowchart. Two languages are supported: Russian and English. Recommended for computer science teachers.
 
 # How to download *(Choose between 1 and 2)*
-1) Download and unpack the Flowchart Builder archive. Run Flowchart Builder.exe to start the program.
+1) Download and unpack the Flowchart Builder.rar from the Releases section below. Run Flowchart Builder.exe to start the program.
 2) Download all the files except the archive; if you wish, you can modify the code to suit your needs. To run the application, launch main.py
 
 # Help with usage
