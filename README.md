@@ -17,7 +17,7 @@
 
 ### Option 2: Running from source code (.py)
 
-1. Download all repository files (except the `.rar` archive).
+1. Download all repository files.
 2. Make sure you have Python 3.x installed.
 3. If there's a `requirements.txt`, install dependencies:
    ```bash
