@@ -50,7 +50,7 @@
 
 ## ✨ What's new in v2.0
 
-- ✅ **Code generation function** based on the created flowchart (now available in the app, not planned for future).
+- ✅ **Code generation function** based on the created flowchart.
 - 🔄 Improved stability.
 - 🛠️ Some bugs have been fixed.
 
